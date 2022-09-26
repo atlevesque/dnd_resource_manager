@@ -1,0 +1,23 @@
+{
+    "name": "Sample Adventurer",
+    "resources": [
+        {
+            "resource_name": "1st level spell slots",
+            "max_uses" : 3,
+            "uses_left": 2,
+            "rest_type": "long"
+        },
+        {
+            "resource_name": "Second wind",
+            "max_uses" : 1,
+            "uses_left": 1,
+            "rest_type": "short"
+        },
+        {
+            "resource_name": "Hit dies",
+            "max_uses" : 3,
+            "uses_left": 3,
+            "rest_type": "long"
+        }
+    ]
+}
